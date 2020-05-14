@@ -1,3 +1,5 @@
 #Mac Stuff
 .idea
 venv/
+db.sqlite3
+blog/migrations/
